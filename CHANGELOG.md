@@ -1,4 +1,4 @@
-#### 1.1.5  Upgrade dependencies and remove deprecations in example app
+#### 2.0.0  Migration to null safety
 #### 1.1.4  Upgrade dependencies
 #### 1.1.3  Fixing bug on release mode
 #### 1.1.2  Update README
